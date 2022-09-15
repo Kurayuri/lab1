@@ -1,0 +1,18 @@
+Start testing: Sep 15 05:38 PDT
+----------------------------------------------------------
+28/166 Testing: t_webget
+28/166 Test: t_webget
+Command: "/home/cs144/lab1-Albert-Vanderboom-master/sponge/tests/webget_t.sh"
+Directory: /home/cs144/lab1-Albert-Vanderboom-master/build
+"t_webget" start time: Sep 15 05:38 PDT
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Failed.
+"t_webget" end time: Sep 15 05:38 PDT
+"t_webget" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Sep 15 05:38 PDT
